@@ -1,1 +1,12 @@
+Execution Instructions:
+connect to ssh
+ssh debian@192.168.7.2
+•	initiates a Secure Shell (SSH) connection to a device with the IP address 192.168.7.2
+
+cd project_code
+•	open the project code file
+make
+•	execute the make file
+sudo ./fish_tank_monitor
+•	execute the fish_tank_monitor 
 
